@@ -1,0 +1,22 @@
+.ota{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    padding: 50px;
+}
+.text{
+    display: block;
+}
+button{
+    width: 80px;
+    height: 30px;
+    padding: 5px;
+    margin: 10px ;
+    border-radius: 10px;
+    border: none;
+    background-color: black;
+}
+.ota img{
+    height: 400px;
+}
